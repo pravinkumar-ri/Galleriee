@@ -1,10 +1,6 @@
 # Galleriee - Photo Search App
 
-## Languages used
-
-- HTML
-- CSS
-- JavaScript
+#### Developed by HTML, CSS and Javascript
 
 ## API used
 - Unsplash API
